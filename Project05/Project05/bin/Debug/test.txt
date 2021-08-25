@@ -1,0 +1,141 @@
+
+Id: Y-7656
+Size: 32 M²
+Floor: 2
+Age: 3 Y
+House Address: Warsaw,Mokotow
+Rooms: 5
+Bathroom: 2
+Contact Type: Telephone
+Price: 1999 $
+Seller Phone Number: 516226723
+Seller Name: Bakhtiyar
+Seller Surename: Aghayev
+Seller Address: Azerbaijan Baku
+Seller E-Mail: aghayevbakhtiyar@gmail.com
+Additional: it is for rent
+Seller Date of Birth: 2003
+
+Furnished,Hot/Cold Water,Internet,With Owen,Bath Tube,Balcony,Security System,
+--------------------------------------------------------
+
+Id: I-3459
+Size: 56 M²
+Floor: 1
+Age: 4 Y
+House Address: Baku,Atciliq
+Rooms: 6
+Bathroom: 2
+Contact Type: E-Mail
+Price: 2500 $
+Seller Phone Number: 516226723
+Seller Name: Bakhtiyar
+Seller Surename: Aghayev
+Seller Address: Azerbaijan Baku
+Seller E-Mail: aghayevbakhtiyar@gmail.com
+Additional: it is for rent
+Seller Date of Birth: 2003
+
+Furnished,Hot/Cold Water,Internet,With Owen,Bath Tube,Air Condition,Pool,Security System,
+--------------------------------------------------------
+
+
+
+
+Id: K-6225
+Size: 76 M²
+Floor: 1
+Age: 9 Y
+House Address: warsaw,mokotow
+Rooms: 4
+Bathroom:  1
+Contact Type: Telephone
+Price: 689 $
+Seller Phone Number: 516226723
+Seller Name: Edip
+Seller Surename: Senyurek
+Seller Address: Turkey/Istanbul
+Seller E-Mail: Senyurek@gmail.com
+Additional: it is for rent
+Seller Date of Birth: 1976
+
+Furnished,With Owen,Internet,Hot/Cold Water,
+--------------------------------------------------------
+Id: K-6225
+Size: 90 M²
+Floor: 2
+Age: 4Y
+House Address: warsaw,mokotow
+Rooms: 5
+Bathroom:  2
+Contact Type: E-Mail
+Price: 9999 $
+Seller Phone Number: 516226723
+Seller Name: Mahdi
+Seller Surename:  Vahedian
+Seller Address: Warsaw/Poland
+Seller E-Mail: Vahedian@gmail.com
+Additional:Hello, it is for rent
+Seller Date of Birth: 1995
+
+Furnished,With Owen,Internet,Hot/Cold Water,Air Condition,Balcony,Security System,Gym
+--------------------------------------------------------
+Id: K-6225
+Size: 35 M²
+Floor: 2
+Age: 7 Y
+House Address: Baku,Azerbaycan
+Rooms: 5
+Bathroom:  2
+Contact Type: E-Mail
+Price: 2376 $
+Seller Phone Number: 516226723
+Seller Name: Raul
+Seller Surename: Amirli
+Seller Address: Baku
+Seller E-Mail: Amirli@gmail.com
+Additional:Hello, it is for rent
+Seller Date of Birth: 2003
+
+Furnished,With Owen,Internet,Air Condition,Balcony,Security System
+--------------------------------------------------------
+Id: K-6225
+Size: 89 M²
+Floor: 3
+Age: 9 Y
+House Address: warsaw,mokotow
+Rooms: 5
+Bathroom:  2
+Contact Type: E-Mail
+Price: 3778 $
+Seller Phone Number: 516226723
+Seller Name: Elnura
+Seller Surename: Mirzayeva
+Seller Address: Poland/Katowice
+Seller E-Mail: Mirzayeva@gmail.com
+Additional:Hello, it is for rent
+Seller Date of Birth: 2001
+
+Furnished,With Owen,Internet,Hot/Cold Water,Pool,Air Condition,Balcony,
+--------------------------------------------------------
+
+Id: I-1231
+Size: 67 M²
+Floor: 2
+Age: 12 Y
+House Address: Los Angeles,California
+Rooms: 6
+Bathroom:  2
+Contact Type: Message by Site
+Price: 50000 $
+Seller Phone Number: 989876587
+Seller Name: Michael
+Seller Surename: Harranson
+Seller Address: California,San Diego
+Seller E-Mail: Harranson@gmail.com
+Additional:I am Michael from san diego USE
+Seller Date of Birth: 1989
+
+Furnished,With Owen,Internet,Hot/Cold Water,Bath Tube,Air Condition,Pool,Incutive Stew,Balcony,Security System,Gym
+--------------------------------------------------------
+

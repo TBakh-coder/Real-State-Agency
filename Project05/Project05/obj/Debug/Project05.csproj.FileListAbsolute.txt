@@ -1,0 +1,13 @@
+C:\Users\huawei\source\repos\Project05\Project05\bin\Debug\Project05.exe.config
+C:\Users\huawei\source\repos\Project05\Project05\bin\Debug\Project05.exe
+C:\Users\huawei\source\repos\Project05\Project05\bin\Debug\Project05.pdb
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.csprojAssemblyReference.cache
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.Form1.resources
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.Properties.Resources.resources
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.exe
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.pdb
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.Form2.resources
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.Form3.resources
+C:\Users\huawei\source\repos\Project05\Project05\obj\Debug\Project05.Form4.resources
